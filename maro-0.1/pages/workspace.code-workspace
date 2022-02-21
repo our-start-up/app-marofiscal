@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Downloads/template html and css/skydash"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "skydash"
+	}
+}
